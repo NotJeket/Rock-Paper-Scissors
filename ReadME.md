@@ -4,7 +4,7 @@ This is a simple command-line game that allows the user to play rock-paper-sciss
 
 **Diagram**
 
-![](Aspose.Words.495c77f4-af54-4a58-afe3-ea9d7a73b4d6.001.png)
+![Aspose Words 495c77f4-af54-4a58-afe3-ea9d7a73b4d6 001](https://user-images.githubusercontent.com/37781149/233152658-2172dd76-fb77-47e3-b231-797042efce49.png)
 
 **Usage**
 
